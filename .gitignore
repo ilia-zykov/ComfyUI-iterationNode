@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.claude/
+iteration_state.json
