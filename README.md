@@ -2,7 +2,7 @@
 
 A custom node for [ComfyUI](https://github.com/comfyanonymous/ComfyUI) that combines prompts from multiple categories (characters, clothing, poses) and automatically advances through every combination across queue runs. Perfect for batch generation of variations without rebuilding the workflow each time.
 
-![Combiner node preview](./assets/preview.png)
+![Combiner node preview](./web/preview.png)
 
 ## Features
 
